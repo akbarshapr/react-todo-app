@@ -1,0 +1,12 @@
+User-agent: *
+# Disallow crawling of scripts, styles, and temporary files
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /private/
+Disallow: /tmp/
+
+# Allow everything else
+Allow: /
+
+# Provide the location of the sitemap
+Sitemap: https://www.example.com/sitemap.xml
