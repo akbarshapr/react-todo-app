@@ -16,3 +16,5 @@ This project is a simple Todo application built using React and Vite. It allows 
 2. Navigate to the project directory : <code>cd react-todo-app</code>
 3. Install dependencies : <code>npm install</code>
 4. Start development server : <code>npm run dev</code>
+
+![image](https://github.com/akbarshapr/react-todo-app/assets/102457528/d517f7f1-6194-4f3c-8497-6616724f80bd)
